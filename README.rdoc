@@ -2,4 +2,4 @@
 
 === Jobs-Board (Rails Practice App)
 
-This is a jobs-board application which I've built to practice creating and organizing categories in an application.
+This is a jobs-board application which I've built to practice creating and organizing categories in an rails app.
